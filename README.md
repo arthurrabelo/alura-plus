@@ -1,2 +1,2 @@
 # alura-plus
-Criação de um site stream da Alura (Exercícios de Aulas)
+Criação de um site de streaming da Alura (Exercícios de Aulas)
